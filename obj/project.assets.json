@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Neillon Cesar\\.dotnet\\DIO.Series\\DIO.Series.csproj",
+      "projectUniqueName": "C:\\Users\\Neillon Cesar\\Documents\\DIO.Series\\DIO.Series.csproj",
       "projectName": "DIO.Series",
-      "projectPath": "C:\\Users\\Neillon Cesar\\.dotnet\\DIO.Series\\DIO.Series.csproj",
+      "projectPath": "C:\\Users\\Neillon Cesar\\Documents\\DIO.Series\\DIO.Series.csproj",
       "packagesPath": "C:\\Users\\Neillon Cesar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Neillon Cesar\\.dotnet\\DIO.Series\\obj\\",
+      "outputPath": "C:\\Users\\Neillon Cesar\\Documents\\DIO.Series\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Neillon Cesar\\AppData\\Roaming\\NuGet\\NuGet.Config"
